@@ -25,3 +25,6 @@ Thumbs.db
 # Generated outputs
 imgs_out/
 saved_*.png
+
+# Sample/demo images are kept locally only
+imgs/
