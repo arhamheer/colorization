@@ -28,3 +28,9 @@ saved_*.png
 
 # Sample/demo images are kept locally only
 imgs/
+
+# Frontend build artifacts
+frontend/node_modules/
+frontend/dist/
+frontend/.vite/
+frontend/.env*
